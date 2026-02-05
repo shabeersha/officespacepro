@@ -4,8 +4,8 @@
 User-agent: *
 Allow: /
 
-# Sitemap location (update with your actual domain)
-Sitemap: https://yourdomain.com/sitemap.xml
+# Sitemap location
+Sitemap: https://www.officespacepro.in/sitemap.xml
 
 # Crawl delay (optional - helps prevent server overload)
 Crawl-delay: 1
