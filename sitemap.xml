@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Page -->
   <url>
     <loc>https://www.officespacepro.in/</loc>
     <lastmod>2026-02-05</lastmod>
@@ -12,6 +13,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+  <!-- Location-Specific Pages (7) -->
   <url>
     <loc>https://www.officespacepro.in/office-space-kaloor-kochi.html</loc>
     <lastmod>2026-02-05</lastmod>
@@ -53,5 +56,225 @@
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+  
+  <!-- Fully Furnished Office Pages (7) -->
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-kaloor-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-thrippunithura-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-kochi-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-vyttila-junction-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-near-forum-mall-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-near-crowne-plaza-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/fully-furnished-office-near-le-meridien-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Commercial Space for Rent Pages (7) -->
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-kaloor-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-thrippunithura-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-kochi-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-vyttila-junction-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-near-forum-mall-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-near-crowne-plaza-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/commercial-space-for-rent-near-le-meridien-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Office for Rent Pages (7) -->
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-kaloor-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-thrippunithura-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-kochi-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-vyttila-junction-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-near-forum-mall-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-near-crowne-plaza-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/office-for-rent-near-le-meridien-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Affordable Office Space Pages (7) -->
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-kaloor-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-thrippunithura-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-kochi-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-vyttila-junction-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-near-forum-mall-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-near-crowne-plaza-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/affordable-office-space-near-le-meridien-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Ready-to-Move Office Pages (7) -->
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-kaloor-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-thrippunithura-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-kochi-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-vyttila-junction-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-near-forum-mall-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-near-crowne-plaza-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.officespacepro.in/ready-to-move-office-near-le-meridien-kochi.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
